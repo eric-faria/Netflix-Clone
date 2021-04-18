@@ -46,7 +46,7 @@ header nav a:hover {
 .filme-principal {
     font-size: 16px;
     height: 400px;
-    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0.5)100%), url("../img/pk-cover.jpg);
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0.5)100%), url("../img/pk-cover.jpg");
     background-size: cover;
     display:flex;
     flex-direction: column;
